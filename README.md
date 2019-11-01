@@ -1,4 +1,4 @@
-# Kylras-Tiny-Motion-Controller
+# Kylra's-Tiny-Motion-Controller
 
 Hardware Version 1.00
 
