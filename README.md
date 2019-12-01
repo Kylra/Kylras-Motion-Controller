@@ -33,7 +33,7 @@ Driver is PCA9615.
 
 https://www.nxp.com/docs/en/data-sheet/PCA9615.pdf
 
-Recommended cable is CAT 5e or better.
+Recommended cable is shielded twisted pair like CAT 6A or better.
 
 
 ## Forum:
