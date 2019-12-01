@@ -1,12 +1,37 @@
 # Kylra's-Motion-Controller
 
-Hardware Version 1.00
 
 The preliminary schematics are not tested and can contain errors.
-Schematics Version 1.00 don't contain Differential I2C and RS485.
 
 
+##Motion Controller Diagramm:
+An overview of the Board(s).
 
 
-Forum:
+##TinyK 8L V1.00_Schematic Preliminary_03112019
+Hardware Version 1.00
+
+This Version don't contain Differential I2C and RS485.
+It will be updated.
+
+
+##PressureSensor4x V1.00_Schematic Preliminary_14112019
+Hardware Version 1.00
+
+This Version don't contain Differential I2C and RS485.
+
+
+##PressureSensor4x dI2C RJ45 V1.00_Schematic Preliminary_01122019
+Hardware Version 1.00
+
+
+##Differential I2C
+Its like CAN, but for I2C signals.
+Driver is PCA9615.
+https://www.nxp.com/docs/en/data-sheet/PCA9615.pdf
+
+Recommended cable is CAT 5e or better.
+
+
+##Forum:
 https://groups.google.com/forum/#!topic/openpnp/rZqqyfjanco
