@@ -12,6 +12,7 @@ An overview of the Board(s).
 Hardware Version 1.00
 
 This Version don't contain Differential I2C and RS485.
+
 It will be updated.
 
 
@@ -27,7 +28,9 @@ Hardware Version 1.00
 
 ## Differential I2C
 Its like CAN, but for I2C signals.
+
 Driver is PCA9615.
+
 https://www.nxp.com/docs/en/data-sheet/PCA9615.pdf
 
 Recommended cable is CAT 5e or better.
