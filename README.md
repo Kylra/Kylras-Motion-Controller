@@ -27,7 +27,7 @@ Hardware Version 1.00
 
 
 ## Differential I2C
-Its like CAN, but for I2C signals.
+Its like RS485, but for I2C signals.
 
 Driver is PCA9615.
 
