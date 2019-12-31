@@ -12,26 +12,46 @@ An overview of the Board(s).
 Hardware Version 1.00
 
 Version 1.00 don't contain the pressure sensor, differential I2C and RS485.
+
 It will be updated.
 
+
 Specification (V1.10):
+
 Main voltage: 24VDC with over voltage protection
+
 Motor voltage: 4.75V to 46V DC
+
 32bit ARM STM32H743 MCU, 480 MHz
+
 4x TMC5130A motor drivers (2A, 2.5A peak) with fuses, heat sinks, ESD, EME filters
+
 4x TMC4361A closed loop motion controller with ABN/SSI/SPI encoder inputs
+
 4x end switch inputs with input filters (1.6kHz)
+
 1x 5kV isolated USB FS
+
 1x onboard MPRLS0025 pressure sensor over SPI (60 mbar to 2.5 bar | 6 kPa to 250 kPa | 1 psi to 30 psi)
+
 4x PWM outputs, max 24V, voltage selectable per jumper
+
 2x outputs, max 24V, voltage selectable per jumper
+
 2x UARTs, one for user with RS485, other for debug
+
 1x I2C for user
+
 1x SPI for user
+
 6x GPIO, 3.3V
+
 2x probe inputs with input filters (1.6kHz)
+
 4x MAX31725 temperatur sensors, one per motor driver
+
 5x outputs four one spindle (flood coolant, mist coolant (PWM), dir, step, PWM)
+
 ESD protection on all inputs
 
 
