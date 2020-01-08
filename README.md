@@ -16,7 +16,7 @@ Version 1.00 don't contain the pressure sensor, differential I2C and RS485.
 It will be updated.
 
 
-Specification (V1.10):
+### Specification (V1.10):
 
 Main voltage: 24VDC with over voltage protection
 
